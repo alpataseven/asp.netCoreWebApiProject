@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiConsume", "ApiConsume", "{1C5A9D5C-08D7-4973-A571-AA22FE82582F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{8EE2CC54-98A5-4B89-95CF-3000B1D91E73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToDo", "ToDo", "{C0EAC4E5-E629-49D3-AA58-149C5EB9B720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.ApiConsume", "ApiConsume\Hotelier.ApiConsume\Hotelier.ApiConsume.csproj", "{1BBE87DD-5374-46E4-8C32-1959A24F8318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BBE87DD-5374-46E4-8C32-1959A24F8318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBE87DD-5374-46E4-8C32-1959A24F8318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBE87DD-5374-46E4-8C32-1959A24F8318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBE87DD-5374-46E4-8C32-1959A24F8318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BBE87DD-5374-46E4-8C32-1959A24F8318} = {1C5A9D5C-08D7-4973-A571-AA22FE82582F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A87D9DA-3DD3-4CB1-83D0-AC652D77D5E7}
+	EndGlobalSection
+EndGlobal
