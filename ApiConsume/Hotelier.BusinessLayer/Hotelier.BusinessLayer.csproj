@@ -24,8 +24,4 @@
     <ProjectReference Include="..\Hotelier.EntityLayer\Hotelier.EntityLayer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Concrete\" />
-  </ItemGroup>
-
 </Project>
